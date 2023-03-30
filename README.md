@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sundarikrishnaperumal
+- 👋 Hi, I’m @sundari K
 - 👀 I’m interested in Vehicular Ad hoc Network Research
 - 🌱 I’m currently learning Connectivity analysis of VANET
 - 💞️ I’m looking to collaborate on related research on VANET
